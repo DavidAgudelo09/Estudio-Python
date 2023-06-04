@@ -14,3 +14,8 @@ n1 = 9
 n2 = 3
 r = n1 % n2
 print("Resultado:", r)
+
+# Formula
+
+a = (5 + 9/3)**2
+print(a)
