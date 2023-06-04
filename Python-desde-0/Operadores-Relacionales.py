@@ -10,4 +10,4 @@
 #   >=        Mayor o igual que
 
 r = (120 <= 100)
-print(r)
+print("Resultado: ", r)
